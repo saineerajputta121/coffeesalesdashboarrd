@@ -39,9 +39,9 @@ Sales by Country Analysis: <br/>
 Top 5 Purchasing Customers: <br/>
 <img src="https://i.imgur.com/nQ1KWMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Time-Series Profit Analysis:</h2>
+<h2>Time-Series Total Sales Analysis:</h2>
 <p align="center">
-Time-Series Profit Analysis: <br/>
+Time-Series Total Sales Analysis: <br/>
 <img src="https://i.imgur.com/EaPVUG2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
